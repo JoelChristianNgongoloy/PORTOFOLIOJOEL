@@ -45,7 +45,7 @@ const HomeTes = () => {
         </div>
         <div className="flex justify-center">
           <a
-            href="public/CV_Joel_Christian_Ngongoloy.pdf"
+            href="/CV_Joel_Christian_Ngongoloy.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
